@@ -1,0 +1,7 @@
+site_name: Brite Live
+theme:
+    name: material
+    palette:
+        primary: green
+        accent: deep-purple
+        scheme: dark
